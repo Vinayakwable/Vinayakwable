@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'M currently working as intern in prodigy infotech<br>I'M learning cyber security<br>I'M looking for jobs
+SOC Analyst <br>Ethical Hacking <br>Blue Team
 
 
 ## 🌐 Socials:
